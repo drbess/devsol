@@ -1,0 +1,1 @@
+This repo consist of a web application using the Flask framework. 
